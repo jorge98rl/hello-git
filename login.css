@@ -1,0 +1,7 @@
+:rooot {
+    --color_primario : var(red);
+}
+
+h1 {
+    background-color: var(--color_primario);
+}
