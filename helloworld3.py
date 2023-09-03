@@ -1,2 +1,2 @@
-print("Vamos por buen camino v3")
+print("Vamos por buen camino v4 recuperando lo guardado temporalmente")
 
