@@ -1,7 +1,14 @@
-:rooot {
-    --color_primario : var(red);
+:root {
+    --color-primario : red;
+    --fuente-principal: 'Courier New', Courier, monospace;
+    --tamaño-principal: 5rem;
+
+
 }
 
 h1 {
-    background-color: var(--color_primario);
+    background-color: var(--color-primario);
+    font-family: var(--fuente-principal);
+    font-size: var(--tamaño-principal);
+    text-align: center;
 }
